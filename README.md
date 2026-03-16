@@ -14,7 +14,7 @@ Think of it as a place where the periodic table is fun, molecules don’t bite, 
 - **Title:** CHEMVERSE – Interactive Chemistry Learning for Kids  
 - **Description:** Fun, interactive, and kid-friendly web app to explore chemistry  
 - **Keywords:** chemistry, learning, kids, interactive, periodic table, molecules, atoms, science, educational app  
-- **Website:** [https://chemverse.app](https://chemverse.app)  
+- **Website:** [[https://chemverse.app](https://chemverse.app)  ](https://chemverse-io.vercel.app)
 
 ## Getting Started
 Clone the repo and open it in a browser. No complicated setup, because chemistry should be fun, not frustrating.  
