@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "introduction-basics",
+    "title": "Introduction / Basics",
+    "description": "What is Chemistry? Matter, elements, compounds, mixtures, states of matter, measurement, and scientific method.",
+    "difficulty": "easy",
+    "category": "Basics",
+    "references": [
+      "Chemistry: The Central Science by Brown et al.",
+      "General Chemistry I & II by Zumdahl"
+    ]
+  },
+  {
+    "slug": "atomic-structure",
+    "title": "Atomic Structure",
+    "description": "Atomic theory history, subatomic particles, atomic number, isotopes, electron configuration, quantum numbers, and periodic trends.",
+    "difficulty": "medium",
+    "category": "Atomic Structure",
+    "references": [
+      "Chemistry: The Central Science",
+      "Inorganic Chemistry by Shriver & Atkins"
+    ]
+  },
+  {
+    "slug": "periodic-table",
+    "title": "Periodic Table",
+    "description": "Organization of the periodic table, groups & periods, metals/non-metals/metalloids, specific element groups, and periodic trends.",
+    "difficulty": "medium",
+    "category": "Periodic Table",
+    "references": ["General Chemistry by Ebbing & Gammon"]
+  },
+  {
+    "slug": "chemical-bonding",
+    "title": "Chemical Bonding",
+    "description": "Ionic, covalent, polar/non-polar, metallic bonds, intermolecular forces, and molecular shapes (VSEPR).",
+    "difficulty": "medium",
+    "category": "Bonding",
+    "references": [
+      "Chemistry: The Molecular Nature of Matter by Silberberg",
+      "Chemistry: The Central Science"
+    ]
+  },
+  {
+    "slug": "stoichiometry-reactions",
+    "title": "Stoichiometry & Chemical Reactions",
+    "description": "Balancing equations, mole concept, empirical/molecular formulas, types of reactions, limiting reactants, and percent yield.",
+    "difficulty": "medium",
+    "category": "Reactions",
+    "references": ["General Chemistry by Ebbing & Gammon"]
+  },
+  {
+    "slug": "acids-bases-ph",
+    "title": "Acids, Bases, and pH",
+    "description": "Arrhenius, Brønsted-Lowry, Lewis acids/bases, strong vs weak acids/bases, pH/pOH, buffers, and titration.",
+    "difficulty": "medium",
+    "category": "Reactions",
+    "references": [
+      "Chemistry: The Central Science",
+      "Principles of Chemistry by Atkins & Jones"
+    ]
+  },
+  {
+    "slug": "thermodynamics",
+    "title": "Thermodynamics",
+    "description": "Energy, heat, work, enthalpy, entropy, Gibbs free energy, exothermic/endothermic reactions, spontaneity, and Hess's law.",
+    "difficulty": "hard",
+    "category": "Thermodynamics",
+    "references": ["Physical Chemistry by Peter Atkins"]
+  },
+  {
+    "slug": "kinetics-equilibrium",
+    "title": "Kinetics & Chemical Equilibrium",
+    "description": "Reaction rates, factors affecting rates, rate laws, dynamic equilibrium, and Le Chatelier's principle.",
+    "difficulty": "hard",
+    "category": "Chemical Dynamics",
+    "references": [
+      "Chemistry: The Central Science",
+      "Physical Chemistry by Atkins"
+    ]
+  },
+  {
+    "slug": "redox-electrochemistry",
+    "title": "Redox Reactions & Electrochemistry",
+    "description": "Oxidation/reduction, oxidizing/reducing agents, electrochemical cells, and standard electrode potentials.",
+    "difficulty": "hard",
+    "category": "Electrochemistry",
+    "references": [
+      "Electrochemistry by Bard & Faulkner",
+      "General Chemistry by Ebbing & Gammon"
+    ]
+  },
+  {
+    "slug": "organic-chemistry",
+    "title": "Organic Chemistry",
+    "description": "Introduction to organic molecules, functional groups, IUPAC nomenclature, alkanes/alkenes/alkynes, isomerism, and common reactions.",
+    "difficulty": "hard",
+    "category": "Organic",
+    "references": [
+      "Organic Chemistry by Paula Y. Bruice",
+      "Organic Chemistry by Morrison & Boyd"
+    ]
+  },
+  {
+    "slug": "solutions-colligative",
+    "title": "Solutions & Colligative Properties",
+    "description": "Solubility, saturation, concentration units, Raoult's law, freezing point depression, and boiling point elevation.",
+    "difficulty": "medium",
+    "category": "Physical Chemistry",
+    "references": ["General Chemistry by Ebbing & Gammon"]
+  },
+  {
+    "slug": "nuclear-chemistry",
+    "title": "Nuclear Chemistry",
+    "description": "Radioactivity (α, β, γ), half-life, decay calculations, nuclear reactions, fission, and fusion.",
+    "difficulty": "hard",
+    "category": "Atomic Structure",
+    "references": [
+      "Chemistry: The Central Science",
+      "Inorganic Chemistry by Shriver & Atkins"
+    ]
+  },
+  {
+    "slug": "analytical-instrumental",
+    "title": "Analytical Chemistry & Instrumental Methods",
+    "description": "Gravimetric/volumetric analysis, spectroscopy (UV-Vis, IR, NMR), chromatography (TLC, GC, HPLC).",
+    "difficulty": "hard",
+    "category": "Analytical Chemistry",
+    "references": ["Quantitative Chemical Analysis by Daniel Harris"]
+  }
+]

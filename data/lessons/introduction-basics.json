@@ -1,0 +1,76 @@
+{
+  "slug": "introduction-basics",
+  "title": "Introduction / Basics",
+  "description": "What is Chemistry? Matter, elements, compounds, mixtures, states of matter, measurement, and scientific method.",
+  "difficulty": "easy",
+  "category": "Basics",
+  "references": [
+    "Chemistry: The Central Science by Brown et al.",
+    "General Chemistry I & II by Zumdahl"
+  ],
+  "sections": [
+    {
+      "heading": "What is Chemistry?",
+      "body": "Chemistry is the scientific study of matter — its properties, how and why substances combine or separate to form other substances, and how substances interact with energy. It is often called the 'central science' because it bridges other natural sciences like physics, biology, and geology."
+    },
+    {
+      "heading": "Matter, Elements & Compounds",
+      "body": "Matter is anything that has mass and occupies space. An element is a pure substance made of only one kind of atom (e.g. oxygen, hydrogen). A compound is formed when two or more elements chemically combine in fixed proportions (e.g. water, H₂O). A mixture contains two or more substances not chemically combined."
+    },
+    {
+      "heading": "States of Matter",
+      "body": "Matter exists in four main states: solid (fixed shape and volume), liquid (fixed volume, takes shape of container), gas (no fixed shape or volume), and plasma (high-energy ionized gas). Transitions between states are caused by changes in temperature or pressure."
+    },
+    {
+      "heading": "Measurement & SI Units",
+      "body": "Chemistry relies on precise measurement. The International System of Units (SI) is the standard: length in meters (m), mass in kilograms (kg), temperature in Kelvin (K), amount of substance in moles (mol). Scientific notation and significant figures are used to express measurements accurately."
+    },
+    {
+      "heading": "The Scientific Method",
+      "body": "The scientific method is a systematic process: observation → hypothesis → experiment → data analysis → conclusion. A hypothesis must be testable and falsifiable. Controlled experiments change only one variable at a time to determine cause-and-effect relationships."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Matter",
+      "definition": "Anything that has mass and occupies space."
+    },
+    {
+      "term": "Element",
+      "definition": "A pure substance consisting of only one type of atom."
+    },
+    {
+      "term": "Compound",
+      "definition": "A substance made of two or more elements chemically bonded in fixed ratios."
+    },
+    {
+      "term": "Mixture",
+      "definition": "A combination of two or more substances not chemically combined."
+    },
+    {
+      "term": "Hypothesis",
+      "definition": "A testable, falsifiable explanation for an observation."
+    },
+    {
+      "term": "Mole",
+      "definition": "The SI unit for amount of substance; 6.022 × 10²³ particles."
+    }
+  ],
+  "quiz": [
+    {
+      "question": "What is the SI unit for amount of substance?",
+      "options": ["Gram", "Mole", "Liter", "Kelvin"],
+      "answer": "Mole"
+    },
+    {
+      "question": "Which of the following is a compound?",
+      "options": ["Oxygen (O₂)", "Gold (Au)", "Water (H₂O)", "Nitrogen (N₂)"],
+      "answer": "Water (H₂O)"
+    },
+    {
+      "question": "What state of matter has no fixed shape or volume?",
+      "options": ["Solid", "Liquid", "Gas", "Crystal"],
+      "answer": "Gas"
+    }
+  ]
+}
