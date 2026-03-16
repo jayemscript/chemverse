@@ -133,10 +133,15 @@ export default function RootLayout({
       >
         <Providers>
           {/* Page content — pb-24 prevents content from hiding behind the nav bar */}
-          <main className="pb-24">{children}</main>
+          <main className="pb-24">
+            {children}
+            <footer className="text-center py-4 text-sm text-gray-500">
+              Made with ❤️ by JayemScript
+            </footer>
+          </main>
 
           {/* Renders on every route automatically */}
-          {/* <FloatingNavBar /> */}
+          <FloatingNavBar />
         </Providers>
       </body>
     </html>
