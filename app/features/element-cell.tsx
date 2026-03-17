@@ -51,7 +51,7 @@ export function ElementCell({ element, compact = false }: ElementCellProps) {
           </span>
 
           {/* Name */}
-          <span className="leading-none text-center truncate w-full px-0.5 text-muted-foreground text-[clamp(8px,0.9cqi,8px)]">
+          <span className="leading-none text-center truncate w-full px-0.5 text-muted-foreground text-[clamp(6px,0.9cqi,8px)]">
             {element.name}
           </span>
         </Link>
