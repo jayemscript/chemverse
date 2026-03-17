@@ -10,9 +10,10 @@ export default function StudyingChemistry() {
       date="2024-01-15"
       tags={["Chemistry", "Introduction", "Science"]}
       heroImage={{
-        src: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Colorful_chemicals.jpg/1280px-Colorful_chemicals.jpg",
+        src: "https://imgs.search.brave.com/T_eMbElJjvv4SZ4Ejib_-RdQgxsijhudMA9T2I0qFLQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jaGVt/aWNhbHNvbHV0aW9u/cy5pbi93cC1jb250/ZW50L3VwbG9hZHMv/MjAyNC8wMi9jaGVt/aWNhbC1ibG9nLTIu/cG5n",
         alt: "Colorful chemical solutions in laboratory flasks",
-        caption: "Figure 1.1 — Chemistry surrounds us in countless forms.",
+        caption:
+          " Chemistry in Everyday Life. Although most people do not recognize it, chemistry and chemical compounds are crucial ingredients in almost everything we eat, wear, and use",
       }}
       sections={[
         {
@@ -27,7 +28,16 @@ export default function StudyingChemistry() {
               chemical techniques to analyze and identify rock samples.
               Oceanographers use chemistry to track ocean currents, determine
               the flux of nutrients into the sea, and measure the rate of
-              exchange of nutrients between ocean layers.
+              exchange of nutrients between ocean layers. Engineers consider the
+              relationships between the structures and the properties of
+              substances when they specify materials for various uses.
+              Physicists take advantage of the properties of substances to
+              detect new subatomic particles. Astronomers use chemical
+              signatures to determine the age and distance of stars and thus
+              answer questions about how stars form and how old the universe is.
+              The entire subject of environmental science depends on chemistry
+              to explain the origin and impacts of phenomena such as air
+              pollution, ozone layer depletion, and global warming.
             </p>
           ),
           callout: {
@@ -78,11 +88,11 @@ export default function StudyingChemistry() {
             text: "DNA matching — comparing biological samples of genetic material — has been used to solve many high-profile criminal cases and exonerate innocent people.",
           },
           image: {
-            src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/DNA_Structure%2BKey%2BLabelled.pn_NoBB.png/800px-DNA_Structure%2BKey%2BLabelled.pn_NoBB.png",
+            src: "https://imgs.search.brave.com/4RfcJ-0wUheB58lzC9NDtZutnTyzKlrH306fAy-IBcc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzE4LzYwLzk5LzM1/LzM2MF9GXzE4NjA5/OTM1NzBfRmVzOVVn/QkdlMGFCSGlIUnMw/Rkp2T2VmMXJhcnJi/QWouanBn",
             alt: "DNA double helix structure",
             caption:
               "Figure 1.2 — The DNA double helix, central to forensic chemistry.",
-          },
+          },  
         },
         {
           id: "chemistry-and-society",
