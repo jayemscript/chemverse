@@ -16,12 +16,16 @@ export default function ContentPage() {
       actions: [
         {
           label: "Open in current tab",
-          onClick: () => router.push("/introduction-basic/studying-chemistry"),
+          onClick: () =>
+            router.push("/lessons/introduction-basics/studying-chemistry"),
         },
         {
           label: "Open in new tab",
           onClick: () =>
-            window.open("/introduction-basic/studying-chemistry", "_blank"),
+            window.open(
+              "/lessons/introduction-basics/studying-chemistry",
+              "_blank",
+            ),
         },
       ],
       content: (
