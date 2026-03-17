@@ -29,7 +29,7 @@ const LessonCard: React.FC<LessonCardProps> = ({
       className="group relative flex flex-col bg-card text-card-foreground border border-border rounded-xl p-6 overflow-hidden transition-all duration-200 hover:-translate-y-1 hover:shadow-lg hover:border-primary/30 no-underline"
     >
       {/* Top accent bar */}
-      <span className="absolute top-0 left-0 right-0 h-[3px] bg-primary opacity-0 group-hover:opacity-100 transition-opacity duration-200 rounded-t-xl" />
+      <span className="absolute top-0 left-0 right-0 h-0.75 bg-primary opacity-0 group-hover:opacity-100 transition-opacity duration-200 rounded-t-xl" />
 
       {/* Card header row */}
       <div className="flex items-start justify-between gap-2 mb-3">
